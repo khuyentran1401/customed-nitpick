@@ -25,6 +25,7 @@ include = [
     "py://nitpick/resources/python/autoflake",
 
     "py://nitpick/resources/any/commitizen",
+    "py://nitpick/resources/any/editorconfig",    
     "py://nitpick/resources/any/hooks",
     "py://nitpick/resources/any/markdownlint",
 
