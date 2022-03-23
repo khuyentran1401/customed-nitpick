@@ -31,8 +31,5 @@ include = [
 
 ]
 
-[nitpick.files.absent]
-".codeclimate.yml" = ""
-
 [nitpick.files."setup.cfg"]
 comma_separated_values = ["flake8.ignore", "flake8.exclude", "isort.skip", "isort.known_first_party"]
